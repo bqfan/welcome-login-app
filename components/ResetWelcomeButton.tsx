@@ -33,6 +33,9 @@ const styles = StyleSheet.create({
     borderRadius: 8,
   },
   buttonText: {
+    fontSize: 16,
+    justifyContent: "center",
+    textAlign: "center",
     color: "#ffffff",
     fontWeight: "bold",
   },

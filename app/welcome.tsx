@@ -17,7 +17,7 @@ export default function WelcomeScreen() {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.content}>
-        <Image source={require("../assets/images/healthq-splash-icon.png")} style={styles.logo} resizeMode="contain" />
+        <Image source={require("@/assets/images/healthq-splash-icon.png")} style={styles.logo} resizeMode="contain" />
 
         <Text style={styles.title}>Welcome to Your App</Text>
 
